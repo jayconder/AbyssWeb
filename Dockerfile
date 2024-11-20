@@ -11,6 +11,6 @@ COPY . .
 
 CMD [ "node", "index.js" ]
 
-{Analytics}
+<Analytics/>
 npm i @vercel/analytics
-import { Analytics } from "@vercel/analytics/react"
+

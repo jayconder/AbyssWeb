@@ -10,5 +10,6 @@ RUN npm install
 COPY . .
 
 CMD [ "node", "index.js" ]
+
 npm i @vercel/analytics
 import { Analytics } from "@vercel/analytics/react"

@@ -80,3 +80,4 @@ function shutdown() {
 server.listen({
   port,
 });
+import { Analytics } from "@vercel/analytics/react"

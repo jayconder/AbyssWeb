@@ -20,4 +20,4 @@
   }
 }
 @vercel/analytics
-import { Analytics } from "@vercel/analytics/react"
+@vercel/analytics/react"
